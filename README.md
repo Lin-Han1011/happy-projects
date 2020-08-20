@@ -10,3 +10,6 @@ The topic is "Future 5 years opportunities of city construction projects in Toro
 
 3. The 'MySQL Database Information Extraction Project' aims to extract and process tables stored in MySQL using SQLAlchemy and Pandas packages. 
 I firstly imported packages and connected to a MySQL relational database named "sql_invocing" which stored 4 tables: 'clients', 'invoices', 'payment_methods', 'payments'. Then, I checked tables' details in the database and printed all table's primary key column and other columns. Thirdly, I created Pandas dataframes from MySQL tables and set index to the corresponding primary key. Lastly, I built analytical SQL queries to (1)extract subsets of information, (2)update clients' payment information, (3)create new clients' records, (4)delete useless record.
+
+4. The "COVID-19 project" is to utilize data solution to reveal deeper reasons behind COVID-19 fatal cases in Toronto. I created this model when I attended the Hack Instead 48 - hour event (August 8th to 9th, 2020). You may also have a look of my presentation link posted in YouTube: https://www.youtube.com/watch?v=ZluhaOT8XgE&feature=youtu.be
+The dataset was downloaded from Toronto Open Data 'COVID-19 CASES IN TORONTO' : https://open.toronto.ca/dataset/covid 19 cases in toronto/. 
