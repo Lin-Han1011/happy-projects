@@ -1,4 +1,4 @@
-# Lin Han's Individual Python Projects
+# Lin Han's Individual Analytics Projects
 The repository contains my personal predictive modeling and data cleaning and data visualization projects. 
 
 1. The 'Bank client churn project' aims to forecast/classify if a client will leave the bank or not for an European bank. 
